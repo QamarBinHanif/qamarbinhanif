@@ -1,16 +1,20 @@
-## Hi there 👋
+# Muhammad Qamar
 
-<!--
-**QamarBinHanif/qamarbinhanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 5+ years of experience in web and mobile application development. Passionate about clean code, open-source contributions, and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills:
+- **Frontend**: React, Vue.js,Next.js,Nuxt.js, React Native, HTML, CSS,Saas,tailwind CSS
+- **Backend**: Node.js, Nest.js, PHP Laravel, Golang, Express, MongoDB, SQL, PostgreSQL
+- **Tools**: Git, Docker, CI/CD
+- **Other**: WebRTC, MediaSoup, FFMPEG, WebSocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- [**Saudi Arabia Ministry of Health Products**](#): Developed and maintained healthcare-related products for the Saudi Arabia Ministry of Health, ensuring high standards of security, scalability, and performance. Worked on backend and frontend technologies to enhance the user experience for healthcare providers and patients.
+  
+- [**Real-Time Video Chat Application**](#): Built a real-time video communication platform that supports live video calls, screen sharing, and dynamic media management. Used technologies like WebRTC, Node.js, and MediaSoup to create an efficient and scalable solution for real-time video chat.
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m.bilal294&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## Fun Fact:
+I love learning new languages (both programming and spoken)! 🗣️
