@@ -46,11 +46,6 @@
 - [**Awesome React**](https://github.com/your-link): Contributed documentation and added new examples for React.
 - [**Next.js Starter Kit**](https://github.com/your-link): Created a custom starter template for fast Next.js development with Tailwind CSS.
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qamarbinhanif&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qamarbinhanif&theme=radical)
 
 ## Contact Me:
 - **Email**: [qamarbinhanif@gmail.com](mailto:qamarbinhanif@gmail.com)
