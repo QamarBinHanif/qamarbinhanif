@@ -1,6 +1,6 @@
 # Muhammad Qamar
 
-**Senior Software Engineer** with 6+ years of experience in developing innovative and scalable web and mobile applications. Passionate about clean code, open-source contributions, and continuous learning. Expertise in frontend and backend technologies, with a focus on performance, security, and user experience.
+**Senior Software Engineer** with 5+ years of experience developing innovative and scalable web and mobile applications. Passionate about clean code, open-source contributions, and continuous learning. Expertise in frontend and backend technologies, focusing on performance, security, and user experience.
 
 ## Skills:
 - **Frontend**:
@@ -47,10 +47,10 @@
 - [**Next.js Starter Kit**](https://github.com/your-link): Created a custom starter template for fast Next.js development with Tailwind CSS.
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qamar-Ascend&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qamarbinhanif&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m.bilal294&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qamarbinhanif&theme=radical)
 
 ## Contact Me:
 - **Email**: [qamarbinhanif@gmail.com](mailto:qamarbinhanif@gmail.com)
