@@ -14,7 +14,7 @@ Software Engineer with 5+ years of experience in web and mobile application deve
 - [**Real-Time Video Chat Application**](#): Built a real-time video communication platform that supports live video calls, screen sharing, and dynamic media management. Used technologies like WebRTC, Node.js, and MediaSoup to create an efficient and scalable solution for real-time video chat.
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m.bilal294&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qamarbinhanif&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Fun Fact:
 I love learning new languages (both programming and spoken)! 🗣️
